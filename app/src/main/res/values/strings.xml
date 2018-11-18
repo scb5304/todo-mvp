@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="get_todo">Get TODO</string>
+    <string name="reset_todo">Reset</string>
+    <string name="show_todo_hint">Results displayed here…</string>
+    <string name="get_todo_error">There was an error fetching TODO %1$s.</string>
+</resources>
